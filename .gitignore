@@ -1,0 +1,13 @@
+# ignore ipynb checkpoints
+.ipynb_checkpoints/
+
+# ignore DS_Store
+.DS_Store
+
+# ignore all csv files
+*.csv
+output.csv.gz
+
+# ignore data
+week_1/docker_sql/ny_taxi_postgres_data/
+
