@@ -11,3 +11,9 @@ output.csv.gz
 # ignore data
 week_1/docker_sql/ny_taxi_postgres_data/
 
+# ignore terraform files
+week_1/terraform/.terraform/
+.terraform.lock.hcl
+terraform.tfstate
+
+services
