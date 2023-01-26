@@ -4,16 +4,15 @@
 # ignore DS_Store
 .DS_Store
 
-# ignore all csv files
+# ignore data files and csv files
+ny_taxi_postgres_data/
 *.csv
-output.csv.gz
-
-# ignore data
-week_1/docker_sql/ny_taxi_postgres_data/
+*.csv.gz
 
 # ignore terraform files
 week_1/terraform/.terraform/
 .terraform.lock.hcl
 terraform.tfstate
 
+# others
 services
