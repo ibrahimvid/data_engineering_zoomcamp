@@ -13,6 +13,7 @@ ny_taxi_postgres_data/
 week_1/terraform/.terraform/
 .terraform.lock.hcl
 terraform.tfstate
+terraform.tfstate.backup
 
 # others
 services
