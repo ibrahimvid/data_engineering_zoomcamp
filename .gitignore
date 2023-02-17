@@ -8,6 +8,7 @@
 ny_taxi_postgres_data/
 *.csv
 *.csv.gz
+data/
 
 # ignore terraform files
 week_1/terraform/.terraform/
